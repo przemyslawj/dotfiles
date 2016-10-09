@@ -1,4 +1,4 @@
 #!/bin/bash
-cp -R * ~/.
+cp -R . ~/.
 rm ~/install.sh
 
